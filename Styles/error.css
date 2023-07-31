@@ -10,7 +10,9 @@ img{
   height: 300px;
   width: 300px;
   border-radius: 150px;
-
+  border-width: 1px;
+  border: solid;
+  border-color: rgb(100,100,100);
 }
 
 .text {
